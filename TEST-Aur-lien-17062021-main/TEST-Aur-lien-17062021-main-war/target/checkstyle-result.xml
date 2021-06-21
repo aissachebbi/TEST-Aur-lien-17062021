@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="C:\DEV\workspace\TEST-Aur-lien-17062021-main\TEST-Aur-lien-17062021-main-war\src\main\java\com\example\testaurelien\config\TestAurelienConfig.java">
+</file>
+<file name="C:\DEV\workspace\TEST-Aur-lien-17062021-main\TEST-Aur-lien-17062021-main-war\src\main\java\com\example\testaurelien\controller\PersonController.java">
+</file>
+<file name="C:\DEV\workspace\TEST-Aur-lien-17062021-main\TEST-Aur-lien-17062021-main-war\src\main\java\com\example\testaurelien\model\Person.java">
+</file>
+<file name="C:\DEV\workspace\TEST-Aur-lien-17062021-main\TEST-Aur-lien-17062021-main-war\src\main\java\com\example\testaurelien\repository\PersonRepository.java">
+</file>
+<file name="C:\DEV\workspace\TEST-Aur-lien-17062021-main\TEST-Aur-lien-17062021-main-war\src\main\java\com\example\testaurelien\service\impl\PersonServiceImpl.java">
+</file>
+<file name="C:\DEV\workspace\TEST-Aur-lien-17062021-main\TEST-Aur-lien-17062021-main-war\src\main\java\com\example\testaurelien\service\PersonService.java">
+</file>
+</checkstyle>
